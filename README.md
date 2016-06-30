@@ -1,9 +1,9 @@
-CakePHP 2.3 Gravatar Helper
+CakePHP 2.x Gravatar Helper
 =======================
 
-###A Gravatar Helper for CakePHP 2.3
+###A Gravatar Helper for CakePHP 2.x
 <br><br>
-A really quick Gravatar Helper for CakePHP 2.3 - We allow users to upload images to their profiles in order to replace the standard placeholder image / auto generated Gravatar Image
+A really quick Gravatar Helper for CakePHP 2.x - We allow users to upload images to their profiles in order to replace the standard placeholder image / auto generated Gravatar Image
 <br><br>
 Usage:
 <br>
